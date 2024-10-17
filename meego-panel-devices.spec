@@ -4,7 +4,7 @@ Version: 0.2.7
 Release: %mkrel 1
 Group: System Environment/Desktop
 License: LGPL 2.1
-URL: http://www.meego.com
+URL: https://www.meego.com
 Source0: http://repo.meego.com/MeeGo/releases/1.1/netbook/repos/source/%{name}-%{version}.tar.gz
 Requires: mutter-meego
 Requires: gthumb
