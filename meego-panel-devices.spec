@@ -10,6 +10,11 @@ Requires: mutter-meego
 Requires: gthumb
 #Requires: gvfs-trash
 Requires: GConf2
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: libdbus-glib-1-devel
 BuildRequires: libcanberra-devel
 BuildRequires: libcanberra-gtk-devel
