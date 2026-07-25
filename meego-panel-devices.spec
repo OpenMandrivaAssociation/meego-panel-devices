@@ -1,7 +1,7 @@
 Name: meego-panel-devices
 Summary: Devices panel
 Version: 0.2.7
-Release: %mkrel 1
+Release: 2
 Group: System Environment/Desktop
 License: LGPL 2.1
 URL: https://www.meego.com
